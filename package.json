@@ -1,0 +1,23 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "description": "This is demo Project of Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshsunder/node-js.git"
+  },
+  "author": "Yogesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshsunder/node-js/issues"
+  },
+  "homepage": "https://github.com/yogeshsunder/node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "log": "^6.3.1"
+  }
+}
